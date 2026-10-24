@@ -1,0 +1,10 @@
+
+{
+  "latestVersion": "1.2.0",
+  "latestVersionCode": 12,
+  "minVersionCode": 10,
+  "forceUpdate": false,
+  "apkUrl": "https://github.com/Mahafujmia/TivzoTV-Downloads/raw/refs/heads/main/TivzoTV.apk",
+  "releaseNotes": "পারফরম্যান্স উন্নত করা হয়েছে এবং কিছু সমস্যা সমাধান করা হয়েছে।",
+  "apkSha256": ""
+}
